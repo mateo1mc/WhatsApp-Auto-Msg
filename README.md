@@ -1,5 +1,5 @@
 # whatsapp_auto_msg
-How to send WhatsApp messages uning Python
+How to send WhatsApp messages using Python
 1. Open https://web.whatsapp.com/ 
 2. Link your device
 3. Copy my code
